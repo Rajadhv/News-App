@@ -1,0 +1,54 @@
+<div class="navbar">
+  <mat-toolbar>
+    <span>logo</span>
+    <span class="example-spacer"></span>
+    <div class="navbar-item">Corona Updates</div>
+    <div class="navbar-item">Politics</div>
+    <div class="navbar-item">Sports</div>
+    <div class="navbar-item">Buisiness</div>
+    <div class="navbar-item">World</div>
+    <div class="navbar-item">Travel</div>
+    <div class="navbar-item">Podcasts</div>
+
+    <select [(ngModel)]="selectedCountry" (change)="onCountryChange()">
+      <option *ngFor="let country of countries" [value]="country.code">
+        {{ country.name }}
+      </option>
+    </select>
+  </mat-toolbar>
+</div>
+<!-- news data   interpoletion-->
+<div class="container">
+  <mat-card class="example-card" *ngFor="let article of visiblenews">
+    <img mat-card-image [src]="article.urlToImage" />
+    <mat-card-content>
+      <p>
+        <strong> {{ article.title }}</strong>
+        {{ article.description }}
+      </p>
+      <div>
+        <p>
+          {{ article.author }}
+          <small
+            >Posted {{ calculateTimeDifference(article.publishedAt) }}</small
+          >
+        </p>
+      </div>
+    </mat-card-content>
+  </mat-card>
+  <div>
+    <button
+      class="lodbtn"
+      *ngIf="visiblenews.length < news.length"
+      mat-raised-button
+      (click)="loadmore()"
+    >
+      VIEW MORE
+    </button>
+  </div><br>
+  <div class="footer">
+    <h2 style="color: aliceblue;">privecy&policy</h2>
+  </div>
+</div>
+
+  

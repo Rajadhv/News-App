@@ -1,0 +1,276 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+ 
+      "articles": [
+          {
+              "source": {
+                  "id": null,
+                  "name": "India Today"
+              },
+              "author": "Divya Bhati",
+              "title": "iPhone 13 available under Rs 50,000 in Amazon Great Indian festive sale 2023, details here - India Today",
+              "description": "The iPhone 13 is currently available for under Rs 50,000 on Amazon. The e-commerce site is offering additional discounts with bank and exchange offers during its ongoing Great Indian Festival Sale 2023.",
+              "url": "https://www.indiatoday.in/technology/news/story/iphone-13-available-under-rs-50000-in-amazon-great-indian-festive-sale-2023-details-here-2446334-2023-10-09",
+              "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/media_bank/202310/iphone-13-115722529-16x9_0.jpg?VersionId=OxNXtCm2faYpQpJepLZ5l04tnMuRNgT9",
+              "publishedAt": "2023-10-09T03:55:21Z",
+              "content": "The Amazon Great Indian Festival Sale is currently live with massive discounts and deals on smartphones, including one of the top sellers, the iPhone 13. Originally launched at Rs 79,900, the phone i… [+2458 chars]"
+          },
+          {
+              "source": {
+                  "id": "the-times-of-india",
+                  "name": "The Times of India"
+              },
+              "author": "Chethan Kumar",
+              "title": "Solar mission: Aditya-L1 undergoes trajectory correction - Times of India",
+              "description": "India News: Several days after it escaped the Earth’s sphere of influence, India’s first solar space observatory, Aditya-L1, underwent a Trajectory Correction Man",
+              "url": "https://timesofindia.indiatimes.com/india/solar-mission-aditya-l1-undergoes-trajectory-correction/articleshow/104254838.cms",
+              "urlToImage": "https://static.toiimg.com/thumb/msid-104269626,width-1070,height-580,imgsize-53970,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+              "publishedAt": "2023-10-09T03:52:26Z",
+              "content": "ISRO advances Gaganyaan crew module development for abort test"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Livemint"
+              },
+              "author": "Livemint",
+              "title": "Bengaluru metro's Purple Line opens for public: Check frequency, fare and timings here | Mint - Mint",
+              "description": "Bengaluru Metro's Purple Line also known as the Whitefield-Challaghatta Metro corridor opened for public today i.e. on 9 October.",
+              "url": "https://www.livemint.com/news/india/bengaluru-metros-purple-line-opens-for-public-check-frequency-fare-and-timings-here-11696822844275.html",
+              "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/Capture_1696823078416_1696823087525.PNG",
+              "publishedAt": "2023-10-09T03:48:09Z",
+              "content": "Bengaluru Metro's Purple Line also known as the Whitefield-Challaghatta Metro corridor opened for public today i.e. on 9 October. The 2.1-km Baiyappanahalli-KR Pura and 2.05-km Kengeri-Challaghatta s… [+2152 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "NDTV News"
+              },
+              "author": null,
+              "title": "Shah Rukh Khan Gets Y+ Security Cover After Death Threats - NDTV",
+              "description": "Shah Rukh Khan will be provided Y+ security cover by Mumbai Police after the actor complained that he had been receiving death threats after the success of 'Pathaan' and 'Jawan'.",
+              "url": "https://www.ndtv.com/india-news/shah-rukh-khan-gets-y-security-cover-after-death-threats-from-underworld-4462901",
+              "urlToImage": "https://c.ndtvimg.com/2023-09/154fgjlg_shah-rukh-khan-_625x300_23_September_23.jpg",
+              "publishedAt": "2023-10-09T03:38:59Z",
+              "content": "Shah Rukh Khan has delivered back to back hits with Pathaan and Jawan\r\nMumbai: Shah Rukh Khan will be provided Y+ security cover by Mumbai Police after the actor complained that he had been receiving… [+1473 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "BBC News"
+              },
+              "author": "https://www.facebook.com/bbcnews",
+              "title": "\"I Ran Out Of The Dressing Room\": R Ashwin Reveals 'Virat Kohli Scare' In Australia Clash - NDTV Sports",
+              "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+              "url": "https://www.bbc.com/news/world-us-canada-39324587",
+              "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+              "publishedAt": "2023-10-09T03:28:17Z",
+              "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "News-Medical.Net"
+              },
+              "author": null,
+              "title": "Next-gen intranasal vaccine takes on measles, mumps, and multiple COVID-19 variants in one shot - News-Medical.Net",
+              "description": "Researchers developed an intranasal trivalent measles-mumps-SARS-CoV-2 vaccine that provides robust protection against multiple coronavirus variants. Leveraging the established measles-mumps-rubella platform, this vaccine demonstrates broad and adaptable immu…",
+              "url": "https://www.news-medical.net/news/20231008/Next-gen-intranasal-vaccine-takes-on-measles-mumps-and-multiple-COVID-19-variants-in-one-shot.aspx",
+              "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761099_16968217893746342.jpg",
+              "publishedAt": "2023-10-09T03:24:00Z",
+              "content": "In a recent study published in the journal PNAS, a group of researchers developed an intranasal measles-mumps-SARS-CoV-2 spike (S) protein (MMS) vaccine that offers broad, durable protection against … [+6680 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Moneycontrol"
+              },
+              "author": "Anishaa Kumar",
+              "title": "Israel-Hamas conflict: Technical analysts on the key levels to watch out for - Moneycontrol",
+              "description": "What will be the key support and resistance levels for Nifty and Bank Nifty today? Here is what technical experts say.",
+              "url": "https://www.moneycontrol.com/news/business/stocks/israel-hamas-conflict-technical-analysts-on-the-key-levels-to-watch-out-for-11499141.html",
+              "urlToImage": "https://images.moneycontrol.com/static-mcnews/2023/10/stocks_sensex_nifty-770x433.jpg",
+              "publishedAt": "2023-10-09T03:03:40Z",
+              "content": "On Saturday, the Palestinian militant group Hamas launched a multi-pronged attack on Israel  by land, sea and air, using paragliders. The attack came hours after thousands of rockets were sent from G… [+4425 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "YouTube"
+              },
+              "author": null,
+              "title": "Ring of Fire Solar Eclipse: What to expect in California - ABC10",
+              "description": "Ring of Fire Solar Eclipse: What to expect in CaliforniaTracking a weather system making its way toward the California coast which could obscure viewing for ...",
+              "url": "https://www.youtube.com/watch?v=mvSgt0aEpfA",
+              "urlToImage": "https://i.ytimg.com/vi/mvSgt0aEpfA/hqdefault.jpg",
+              "publishedAt": "2023-10-09T02:57:10Z",
+              "content": null
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Hindustan Times"
+              },
+              "author": "HT Tech",
+              "title": "140-foot asteroid set for a close call with Earth, reveals NASA - HT Tech",
+              "description": "An Apollo group asteroid is expected to make its closest approach to Earth today, October 9. Check details such as its speed, distance, and more, as per NASA.",
+              "url": "https://tech.hindustantimes.com/tech/news/140foot-asteroid-set-for-a-close-call-with-earth-reveals-nasa-71696819112516.html",
+              "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/09/1600x900/orbit-viewer-snapshot_1696819233223_1696819245892.jpg",
+              "publishedAt": "2023-10-09T02:41:46Z",
+              "content": "Did you know that artificial intelligence (AI) is aiding in the discovery and study of asteroids? After aiding various industries across sectors such as education, healthcare, engineering and more, A… [+2884 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Moneycontrol"
+              },
+              "author": "Shaleen Agrawal",
+              "title": "Markets may open in red as Israel-Hamas war intensifies, but recover later - Moneycontrol",
+              "description": "Crude oil prices jumped 3-4 percent in the early morning trade, with Brent crude shooting past $87.4 a barrel and WTI crossing the $85.7 mark",
+              "url": "https://www.moneycontrol.com/news/business/markets/markets-may-open-in-red-as-israel-hamas-war-intensifies-but-recover-later-11499311.html",
+              "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/05/Healing-Space-54-Bouncebackability-markets-and-mental-health-bounce-back-1-770x433.jpg",
+              "publishedAt": "2023-10-09T02:36:20Z",
+              "content": "The market is likely to open gap-down on October 9, as war in West Asia fuels a surge in crude oil prices and prompts a flight to safety from volatile global equities. Crude oil prices jumped 3-4 per… [+2975 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Livemint"
+              },
+              "author": "Karishma Pranav Bhavsar",
+              "title": "Weather update: IMD predicts heavy rains in THESE states during the next 4 days. Check forecast here | Mint - Mint",
+              "description": "IMD has predicted heavy rains over North East, East, South and North West India during the next four days. Check full weather forecast to know more",
+              "url": "https://www.livemint.com/news/india/weather-update-imd-predicts-heavy-rains-in-these-states-during-the-next-4-days-check-forecast-here-11696816956531.html",
+              "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/Sikkim_1696485614652_1696817320485.jpg",
+              "publishedAt": "2023-10-09T02:31:35Z",
+              "content": "The India Meteorological Department (IMD) has predicted heavy rains over several areas of North East, East, South and North West India till 12 October. As per IMD, heavy rains have been predicted tod… [+2895 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Hindustan Times"
+              },
+              "author": "HT News Desk",
+              "title": "Election Commission to announce poll schedule for 5 states today - Hindustan Times",
+              "description": "The Election Commission will announce the assembly polls schedule for Madhya Pradesh, Chhattisgarh, Rajasthan, Telangana, and Mizoram. | Latest News India",
+              "url": "https://www.hindustantimes.com/india-news/election-commission-to-announce-poll-schedule-for-5-states-madhya-pradesh-chhattisgarh-rajasthan-telangana-mizoram-101696818189460.html",
+              "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/10/09/1600x900/PTI10-01-2023-000146B-0_1696818393187_1696818419423.jpg",
+              "publishedAt": "2023-10-09T02:28:15Z",
+              "content": "The Election Commission of India is set to announce today the much-anticipated schedule for assembly polls in five states. Chief Election Commissioner Rajiv Kumar will hold a press conference at 12 n… [+1788 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Business Standard"
+              },
+              "author": "BS Web Team",
+              "title": "Gold jumps Rs 440, silver unchanged, yellow metal trading at Rs 57,980/10g - Business Standard",
+              "description": "Gold-Sliver price today: The price of 22-carat gold was up Rs 400 to Rs 53,150",
+              "url": "https://www.business-standard.com/markets/commodities/gold-jump-rs-440-silver-unchanged-yellow-metal-trading-at-rs-57-980-10g-123100900074_1.html",
+              "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-03/28/full/1680026223-3258.jpeg",
+              "publishedAt": "2023-10-09T02:24:22Z",
+              "content": "The price of 22-carat gold was up Rs 400 to Rs 53,150\r\nGold\r\nBS Web TeamNew Delhi\r\nThe price of 24-carat gold jumped Rs 440 during Monday's early trade, with ten grams of the precious metal selling a… [+1405 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Livemint"
+              },
+              "author": "Asit Manohar",
+              "title": "Day trading guide for today: Six stocks to buy or sell on Monday — 9th October | Mint - Mint",
+              "description": "Day trading stocks: Market experts have recommended six stocks to buy today — HDFC AMC, LTFH, REC, RBL Bank, AWHCL, SKF India",
+              "url": "https://www.livemint.com/market/stock-market-news/day-trading-guide-for-today-six-stocks-to-buy-or-sell-on-monday-9th-october-11696817114957.html",
+              "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/Day_trading_guide_stocks_to_buy_stock_market_today_1696817501757_1696817501950.jpg",
+              "publishedAt": "2023-10-09T02:18:24Z",
+              "content": "Day trading guide for today: On account of strong global market sentiments, Dalal Street ended higher for second straight session on Friday last week. Nifty 50 index gained 107 points and closed at 1… [+8857 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "NDTV News"
+              },
+              "author": "Nonika Sharma",
+              "title": "Israel Hamas War Updates: Over 1,000 Killed In Deadliest Offensive Against Israel Since 1973 - NDTV",
+              "description": "Israel's military pounded the Palestinian enclave of Gaza on Sunday and killed hundreds of people a day after a surprise attack by Hamas group left over 600 Israelis dead, the worst attack on Israeli soil in decades.",
+              "url": "https://www.ndtv.com/world-news/israel-hamas-war-live-updates-iran-funding-hamas-attack-says-israel-envoy-to-un-over-1-000-dead-4462795",
+              "urlToImage": "https://c.ndtvimg.com/2023-10/87nk351o_israel-hamas-war-reuters_625x300_09_October_23.jpg",
+              "publishedAt": "2023-10-09T02:18:11Z",
+              "content": "Israel Hamas War Updates: Smoke rises following Israeli strikes in Gaza.\r\nIsrael's military pounded the Palestinian enclave of Gaza on Sunday and killed hundreds of people a day after a surprise atta… [+3622 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "News18"
+              },
+              "author": "Dishya Sharma",
+              "title": "Anushka Sharma Shares Virat Kohli's Pic and Reacts To India Beating Aus in World Cup 2023 Match - News18",
+              "description": "Anushka Sharma celebrates India's win against Australia at World Cup 2023 match by sharing a photo of Virat Kohli.",
+              "url": "https://www.news18.com/movies/anushka-sharma-shares-virat-kohlis-pic-and-reacts-to-india-beating-aus-in-world-cup-2023-match-8608660.html",
+              "urlToImage": "https://images.news18.com/ibnlive/uploads/2023/10/anushka-sharma-world-cup-2023-virat-kohli-2023-10-d173fba9adef85bf91fdd73582f77345-16x9.jpg?impolicy=website&width=1200&height=675",
+              "publishedAt": "2023-10-09T02:02:51Z",
+              "content": "Bollywood star Anushka Sharma shared her reaction to India beating Australia in their first World Cup 2023 match. On Monday morning, the actress took to her Instagram Stories and shared a post featur… [+1639 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Livemint"
+              },
+              "author": "Sounak Mukhopadhyay",
+              "title": "Canada PM Justin Trudeau calls UAE President and speaks about India; netizens react | Mint - Mint",
+              "description": "The Canadian PM held a telephone conversation with the President of UAE and the two also spoke about the current situation in Israel. The two leaders expressed concern about the need to protect civilian life.",
+              "url": "https://www.livemint.com/news/world/canada-pm-justin-trudeau-calls-uae-president-and-speaks-about-india-netizens-react-11696813176503.html",
+              "urlToImage": "https://www.livemint.com/lm-img/img/2023/10/09/1600x900/Trudeau_Modi_UAE_1696816016946_1696816036242.jpg",
+              "publishedAt": "2023-10-09T01:52:47Z",
+              "content": "Canada's Prime Minister Justin Trudeau spoke with UAE President Sheikh Mohamed bin Zayed Al Nahyan on the India row. The two leaders not only addressed the ongoing Canada-India dispute but also share… [+2427 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "Hindustan Times"
+              },
+              "author": "HT Tech",
+              "title": "Quordle 623 answer for October 9: Solve it easily! Check hints, clues - HT Tech",
+              "description": "Quordle 623 answer for October 9: If you find Monday’s Quordle 623 puzzle to be a head-scratcher, then check out the hints, clues and answers here.",
+              "url": "https://tech.hindustantimes.com/how-to/quordle-623-answer-for-october-9-solve-it-easily-check-hints-clues-71696814530237.html",
+              "urlToImage": "https://images.hindustantimes.com/tech/img/2023/10/09/1600x900/HT_1696814744855_1696814745098.jpg",
+              "publishedAt": "2023-10-09T01:27:09Z",
+              "content": "Quordle 623 answer for October 9: Beat the Monday blues! The puzzle at the beginning of the week is relatively easy this time around, with simple answers awaiting. The words are not tricky to guess a… [+1987 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "News-Medical.Net"
+              },
+              "author": null,
+              "title": "Does smoking tobacco damage sperm quality? - News-Medical.Net",
+              "description": "Tobacco smoking is linked to diminished semen quality by triggering stress reactions in sperm cells, a study in the journal Antioxidants reveals. Researchers identified that smokers had poorer sperm quality, possibly due to elevated stress responses in their …",
+              "url": "https://www.news-medical.net/news/20231008/Does-smoking-tobacco-damage-sperm-quality.aspx",
+              "urlToImage": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_761092_16968108807212489.jpg",
+              "publishedAt": "2023-10-09T00:22:00Z",
+              "content": "A study published in the journal Antioxidants finds that tobacco smoking can negatively affect semen quality by inducing stress responses in sperm cells.\r\nStudy: Smoking Induces a Decline in Semen Qu… [+4409 chars]"
+          },
+          {
+              "source": {
+                  "id": null,
+                  "name": "VOGUE India"
+              },
+              "author": "VOGUE India",
+              "title": "Taurus Horoscope Today: October 9, 2023 - VOGUE India",
+              "description": null,
+              "url": "https://www.vogue.in/horoscope/product/taurus-horoscope-today-october-9-2023/",
+              "urlToImage": null,
+              "publishedAt": "2023-10-09T00:20:59Z",
+              "content": null
+          }
+      ]
+  ,
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,51 @@
+
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.example-spacer {
+    padding-right: 10%;
+  }
+.navbar-item {
+    padding: 6px 6px;
+    
+    margin: 5px;
+    color: black;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .container {
+    display: flex;justify-content: center;
+    
+
+    flex-wrap: wrap;
+    gap: 20px; /* Adjust the gap between the cards as needed */
+  }
+  
+  mat-card {
+    flex: 1 0 calc(33% - 16px); /* 3 cards per row. Adjust the percentage and gap as needed */
+    max-width: calc(33% - 16px);
+    
+  }
+
+
+.lodbtn{
+    position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+}
+ 
+
+.footer{
+    flex-shrink: 0;
+    background-color:black;
+    height: 150px;
+    width: 100%;
+    
+  }
+//   flex: 1 0 calc(33.3333% - 16px); /* 3 cards per row. Adjust the percentage and gap as needed */
+//   max-width: calc(33.3333% - 16px);
