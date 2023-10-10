@@ -57,10 +57,3 @@ calculateTimeDifference(postTimestamp: any): any {
 
 
 
-// getdata(){
-//   this.apicall.getNewsByCountry(this.selectedCountry).subscribe((data:any)=>{
-//     this.news =data['articles']
-//     console.log(this.news);
-    
-//   })
-//  }
